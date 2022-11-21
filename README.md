@@ -13,5 +13,5 @@
 
 ##  index.html(개선) 관련 페이지 주소
 
-[HTML](https://github.com/WeslySloan/Game-Programming/blob/main/CssFramework/index.html)  
+[HTML](https://github.com/WeslySloan/html-bricks/blob/main/index.html)  
 [netlify](https://weslysloanbricks.netlify.app/)
